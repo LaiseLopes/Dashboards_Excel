@@ -8,6 +8,3 @@ For analysis, the Excel file: Analise_Atendimentos.xlsx attached to this folder 
 
 ![gif](https://github.com/LaiseLopes/Excel/blob/master/Controle%20de%20Atendimentos_Hospital/gif_AH.gif)
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Always under construction and adaptations...  🚧
-</h4>
