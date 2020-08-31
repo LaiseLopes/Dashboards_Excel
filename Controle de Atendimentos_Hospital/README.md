@@ -4,7 +4,7 @@ Project developed using Excel, analyzing calls made in a Hospital
 
 For analysis, the Excel file: Analise_Atendimentos.xlsx attached to this folder was used.
 
-## Dashboard Demo
+## Dashboard
 
 ![gif](https://github.com/LaiseLopes/Excel/blob/master/Controle%20de%20Atendimentos_Hospital/Gif_Controle_de_Atendimentos.gif)
 
