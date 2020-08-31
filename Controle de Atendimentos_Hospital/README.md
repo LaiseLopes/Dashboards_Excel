@@ -6,7 +6,7 @@ For analysis, the Excel file: Analise_Atendimentos.xlsx attached to this folder 
 
 ## Dashboard
 
-![gif](https://github.com/LaiseLopes/Excel/blob/master/Controle%20de%20Atendimentos_Hospital/Gif_Controle_de_Atendimentos.gif)
+![gif](https://github.com/LaiseLopes/Excel/blob/master/Controle%20de%20Atendimentos_Hospital/gif_AH.gif)
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Always under construction and adaptations...  🚧
